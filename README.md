@@ -35,7 +35,7 @@ A clean, beautiful and responsive portfolio website built with HTML, CSS, and Ja
 
 ## 💻 Live Demo
 
-You can view the live demo of the calculator by clicking the link below:
+You can view the live demo of the Portfolio by clicking the link below:
 
 <a href="https://daneshcode.github.io/Portfolio-Website/" target="_blank">🔗 Open the Portfolio</a>
 
