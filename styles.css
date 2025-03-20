@@ -930,7 +930,11 @@ textarea {
   font-size: var(--small-font-size);
   text-align: center;
   color: var(--text-color-light);
-  margin-top: var(--mb-3);
+  margin-top: var(--mb-1);
+}
+
+.footer__copy a {
+  color: var(--first-color-lighter);
 }
 
 .footer__title,
@@ -1226,7 +1230,7 @@ textarea {
     justify-self: flex-end;
   }
   .footer__copy {
-    margin-top: 4.5rem;
+    margin-top: 1.5rem;
   }
 }
 
